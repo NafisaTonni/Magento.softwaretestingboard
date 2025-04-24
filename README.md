@@ -22,7 +22,10 @@ An example project is one about UI Automation using Playwright javascript.
 - The npm init command will guide you through selecting the desired browsers (Chromium, Firefox, WebKit, etc.). 
 
 <h3><ins>Spec File run command </h3>
-this is for Search Functionality work
+  
+This is for Search Functionality work
+
 - npx playwright test ./tests/search.spec.js --headed
- this is for Add to Cart and Remove from Cart work 
+  
+ This is for Add to Cart and Remove from Cart work 
 - npx playwright test ./tests/cart.spec.js --headed
